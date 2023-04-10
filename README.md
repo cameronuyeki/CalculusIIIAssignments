@@ -1,15 +1,14 @@
 # Calculus III Assignments
 
 <h2>Description</h2>
-Assignment consists of intro mathematical modeling assingments done in Python. Throughout this semester course, main assignments covered Dimensional Analysis, Linear Models Using Regression and Data of Global Warming and Life Expectancy, Modeling Mortgage Payments, Mathematical Modeling by Linear Algebra: SVD Models.
+This section consists of past midterms taken in my Calculus III course done in RStudio. Throughout this semester course, main assignments/midterms covered basic calculus problems. To help visualize written calculus problems more easily, some of the questions include plots, tables, and graphs with intro RStudio programming to aim at better overall understadning and the ability to analyze the given data. 
 These assignments encapsulate the courseload for this class over the course of the semester. 
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Python</b> 
-- <b>Jupyter Notebook</b>
+- <b>RStudio</b> 
 
 <h2>Environments Used </h2>
 
